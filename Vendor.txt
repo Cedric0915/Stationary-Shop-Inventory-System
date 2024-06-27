@@ -1,0 +1,10 @@
+1,STATIONARY EXPRESS,0123456789,chuazoe03@gmail.com
+2,PAPER WORLD,0123456789,paperworld@gmail.com
+3,STATIONARY SOLUTIONS LTD.,0123429183,stationarysolutions@gmail.com
+4,PEN & PAPER INC.,0107807792,penandpaper@gmail.com
+5,SWIFT STATIONERS,0158896345,swiftstationers@gmail.com
+6,WRITE RIGHT SUPPLIES,0147789630,writerightsupplies@gmail.com
+7,STATIONARY WORLD,0107822253,stationeryworld@gmail.com
+8,PAPER MART,0147732054,papermart@gmail.com
+9,MRHEW STATIONARY,0138879256,mrhew@gmail.com
+10,ZOERIC STATIONARY,0106192003,doraeric@gmail.com
