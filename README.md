@@ -7,12 +7,15 @@
 > Administrator -- responsible for managing and overseeing various aspects of this system.
 > Employee -- worker who mainly operates in the stationary shop every day.
 
-### 1.	Login & Register
-[Users: Login -- administrator, employee	Register -- employee]
+### _1.	Login & Register_
+[Users: Login -- administrator, employee	
+Register -- employee]
+
 The purpose of this functionality is to ensure the security of the inventory system. By having this functionality, the user can only use this system when it login or registers in this system. Hence, unauthorized access can be prevented and the content in this system will not be maliciously changed or modified. By including different access level, for the administrator and employee, we can decide the scope of the functionality based on their role. For instance, if a product would like to be deleted, this action should be done by the administrator but not any employee. In this system, the user will be given choices of login based on role or register. If login is chosen, the user will be given three attempts. If a user failed to login after three attempts, the system will be closed to prevent an infinite loop. For registration, the new user which is the new employee can register a new account to use this system. If the IC number key in is exist in the employee file, the system may give another selection for forget username and password to the user.
 
-### 2.	Forget username or password
+### 2.	_Forget username or password_
 [Users: administrator, employee]
+
 The purpose for this feature is to let the user which has an account but accidentally forget their username and/or password validate their identity by key in their name and IC number in order to change their username and password. By having this feature, users can have a chance to change their account information rather than create a new account. This function will be used either by selecting the options in the login or register page or during the registration process, if the IC key in by user is exist, the system will prompt them whether they forget their username and password or not. 
 
 ### 3.	Manage product, transaction and vendor
